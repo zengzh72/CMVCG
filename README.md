@@ -14,6 +14,8 @@ You can download our Bili-22 dataset at [here](https://drive.google.com/drive/fo
 
 Another Livebot dataset be found at [here](https://drive.google.com/drive/folders/1QEZzKEv0G52WE_z8_7f4QpIq1mcs7ea1). This dataset is based on [Livebot](https://arxiv.org/abs/1809.04938) and the raw data can be found at [livebot](https://github.com/lancopku/livebot).
 
+## Config
+All the parameters can be set at: `\MyCMVCG\config`.
 
 ## Train
 Praining step:
